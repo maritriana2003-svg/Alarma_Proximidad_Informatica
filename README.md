@@ -43,7 +43,7 @@ Además, se incorpora un pulsador que permite activar o desactivar el buzzer sin
 ## Funcionamiento del sistema
 
 El sensor HC-SR04 mide la distancia entre el sensor y un objeto.  
-Arduino calcula esta distancia a partir del tiempo que demora la señal ultrasónica en ir y volver.
+Arduino calcula la distancia a partir del tiempo que demora la señal ultrasónica en ir y volver.
 
 Si la distancia es mayor a 0 cm y menor a 20 cm, se activa el LED de alerta.  
 Si el buzzer está habilitado, también se emite una alarma sonora.
