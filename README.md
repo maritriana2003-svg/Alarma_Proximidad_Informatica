@@ -52,7 +52,7 @@ El pulsador permite cambiar el estado del buzzer entre activado y desactivado.
 
 ## Archivos del repositorio
 
-- `hardware_oficial.ino`: código fuente del proyecto en Arduino IDE.
+- `alarma_proximidad.ino`: código fuente del proyecto de alarma de proximidad en Arduino IDE.
 - `Informe técnico.pdf`: informe técnico del proyecto.
 - `esquema_conexiones.png`: esquema de conexión del circuito.
 - `Imagen del diagrama de bloques.png`: diagrama de bloques del sistema.
