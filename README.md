@@ -1,4 +1,4 @@
-# Alarma de Proximidad con Arduino UNO
+# Sistema de medición de distancia con indicación sonora y visual con Arduino UNO
 
 Proyecto desarrollado para la asignatura **Hardware Digital** de la Universidad de Valparaíso.
 
